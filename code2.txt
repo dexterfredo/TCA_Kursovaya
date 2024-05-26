@@ -1,0 +1,8 @@
+Dim a, s as integer
+a = 8
+if a > b and b < 10 then
+x = 4 * y
+y = a
+else
+x = 0
+end if

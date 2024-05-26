@@ -1,0 +1,14 @@
+Dim a as integer
+a = 8
+if ((10+а)*(10-а)) then
+if (a>553) then
+x = 3543 * y
+end if
+if (a>7566) then
+x = 3 * y344
+end if
+x = 4 * y
+y = a
+else
+x = 0
+end if
